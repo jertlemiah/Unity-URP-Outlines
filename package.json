@@ -1,0 +1,8 @@
+{
+  "name": "com.robin-seibold.outline",
+  "version": "4.8.20",
+  "unity": "2020.3",
+  "description": "Provides an outline shader.",
+  "displayName": "URP Outline Shader",
+  "hideInEditor": false
+}
